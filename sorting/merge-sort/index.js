@@ -1,5 +1,5 @@
 // Description: Merge sort algorithm
-const randomArrayNumbers = require("../random");
+const randomArrayNumbers = require("../../random");
 
 function mergeSort(arr) {
   if (arr.length < 2) {

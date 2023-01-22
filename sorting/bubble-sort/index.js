@@ -1,5 +1,5 @@
 // Description: Bubble sort algorithm
-const randomArrayNumbers = require("../random");
+const randomArrayNumbers = require("../../random");
 
 // Bubble sort algorithm
 function bubbleSort(arrNumb) {
