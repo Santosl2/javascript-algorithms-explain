@@ -9,8 +9,7 @@ The sorting algorithms will have in this repos are:
 - [Bubble Sort](./sorting/bubble-sort/)
 - [Merge Sort](./sorting/merge-sort/)
 - [Quick Sort](./sorting/quick-sort/)
-- Insertion Sort
-- Selection Sort
+- [Insertion Sort](./sorting/insertion-sort/)
 - Heap Sort
 
 ## Searching Algorithms
